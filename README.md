@@ -1,2 +1,2 @@
 # jnp1
-Języki i narzędzia programowania I
+Team projects (pairwise) for the Programming Languages and Tools I @ University of Warsaw.

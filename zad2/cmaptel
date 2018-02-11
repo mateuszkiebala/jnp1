@@ -1,0 +1,10 @@
+#ifndef cmaptel
+#define cmaptel
+
+#include <iostream>
+
+namespace jnp1 {
+  #include "maptel.h"
+}
+
+#endif
